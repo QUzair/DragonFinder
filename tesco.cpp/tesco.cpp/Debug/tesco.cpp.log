@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\drago\documents\visual studio 2015\projects\tesco.cpp\tesco.cpp\main.cpp(111): warning C4715: 'next_field': not all control paths return a value
+  tesco.cpp.vcxproj -> C:\Users\drago\documents\visual studio 2015\Projects\tesco.cpp\Debug\tesco.exe
+  tesco.cpp.vcxproj -> C:\Users\drago\documents\visual studio 2015\Projects\tesco.cpp\Debug\tesco.pdb (Full PDB)
